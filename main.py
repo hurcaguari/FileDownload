@@ -16,6 +16,7 @@ img_list  =[
     ['http://syxiaojuzi.com/manhua/2/{}.jpg'.format(str(i).zfill(2)) for i in range(1,28)],
     ['http://syxiaojuzi.com/manhua/3/{}.jpg'.format(str(i).zfill(2)) for i in range(1,28)],
     ['http://syxiaojuzi.com/manhua/4/{}.jpg'.format(str(i).zfill(2)) for i in range(1,28)]
+    
 ]
 
 if __name__ == "__main__":
