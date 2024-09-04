@@ -10,4 +10,3 @@ from Download.get_url import dow_list
 def download(date,path = ''): # 类接口
     dow_list(date,path) if type(date) == list else None
     dow_file(date,path) if type(date) == str else None
-        

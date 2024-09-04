@@ -22,3 +22,7 @@ img_list  =[
 if __name__ == "__main__":
     download(http_list,'C:\\Users\\Hurca\\Downloads\\mov')
     download(img_list,'C:\\Users\\Hurca\\Downloads\\img')
+
+
+
+        
