@@ -1,0 +1,32 @@
+2024-09-05 14:49:54,533 - root - INFO - 开始下载视频文件
+2024-09-05 14:49:55,203 - root - INFO - 视频文件下载完成
+2024-09-05 14:49:55,203 - root - INFO - 开始下载图片文件
+2024-09-05 14:49:56,303 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 14:49:56,304 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 14:49:57,403 - Download.get_url - INFO - 开始下载小文件: 22.jpg
+2024-09-05 14:49:57,405 - Download.get_url - INFO - 小文件下载完成: 22.jpg
+2024-09-05 14:49:57,446 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 14:49:57,447 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 14:49:57,490 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 14:49:57,492 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 14:49:57,530 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 14:49:57,531 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 14:49:57,577 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 14:49:57,579 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 14:49:57,625 - Download.get_url - INFO - 开始下载小文件: 27.jpg
+2024-09-05 14:49:57,627 - Download.get_url - INFO - 小文件下载完成: 27.jpg
+2024-09-05 14:49:58,127 - Download.get_url - INFO - 开始下载小文件: 10.jpg
+2024-09-05 14:49:58,129 - Download.get_url - INFO - 小文件下载完成: 10.jpg
+2024-09-05 14:49:58,674 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 14:49:58,675 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 14:49:59,889 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 14:49:59,890 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 14:49:59,936 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 14:49:59,937 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 14:49:59,981 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 14:49:59,982 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 14:50:00,026 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 14:50:00,027 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 14:50:00,066 - Download.get_url - INFO - 开始下载小文件: 27.jpg
+2024-09-05 14:50:00,067 - Download.get_url - INFO - 小文件下载完成: 27.jpg
+2024-09-05 14:50:00,067 - root - INFO - 图片文件下载完成
