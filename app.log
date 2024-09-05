@@ -30,3 +30,588 @@
 2024-09-05 14:50:00,066 - Download.get_url - INFO - 开始下载小文件: 27.jpg
 2024-09-05 14:50:00,067 - Download.get_url - INFO - 小文件下载完成: 27.jpg
 2024-09-05 14:50:00,067 - root - INFO - 图片文件下载完成
+2024-09-05 21:30:23,487 - root - INFO - 开始下载视频文件
+2024-09-05 21:30:23,765 - Download.get_url - INFO - 开始下载大文件: 01.mp4
+2024-09-05 21:30:23,765 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 21:32:14,297 - Download.get_url - INFO - 大文件下载完成: 01.mp4
+2024-09-05 21:32:14,426 - Download.get_url - INFO - 开始下载大文件: 02.mp4
+2024-09-05 21:34:11,870 - Download.get_url - INFO - 大文件下载完成: 02.mp4
+2024-09-05 21:34:12,013 - Download.get_url - INFO - 开始下载大文件: 03.mp4
+2024-09-05 21:37:46,547 - Download.get_url - INFO - 大文件下载完成: 03.mp4
+2024-09-05 21:37:46,697 - Download.get_url - INFO - 开始下载大文件: 04.mp4
+2024-09-05 21:41:14,733 - Download.get_url - INFO - 大文件下载完成: 04.mp4
+2024-09-05 21:41:14,879 - Download.get_url - INFO - 开始下载大文件: 05.mp4
+2024-09-05 21:43:18,000 - Download.get_url - INFO - 大文件下载完成: 05.mp4
+2024-09-05 21:43:18,139 - Download.get_url - INFO - 开始下载大文件: 06.mp4
+2024-09-05 21:45:14,726 - root - INFO - 开始下载视频文件
+2024-09-05 21:45:15,363 - Download.get_url - INFO - 开始断点续传下载: 06.mp4
+2024-09-05 21:45:15,363 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-05 21:45:15,458 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /video/06.mp4 HTTP/11" 206 10620418
+2024-09-05 21:46:30,541 - Download.get_url - INFO - 断点续传下载完成: 06.mp4
+2024-09-05 21:46:30,541 - root - INFO - 视频文件下载完成
+2024-09-05 21:46:30,542 - root - INFO - 开始下载图片文件
+2024-09-05 21:46:30,693 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 21:46:30,693 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\1
+2024-09-05 21:46:31,958 - Download.get_url - INFO - 大文件下载完成: 01.jpg
+2024-09-05 21:46:32,060 - Download.get_url - INFO - 开始下载大文件: 02.jpg
+2024-09-05 21:46:33,163 - Download.get_url - INFO - 大文件下载完成: 02.jpg
+2024-09-05 21:46:33,245 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 21:46:34,346 - Download.get_url - INFO - 大文件下载完成: 03.jpg
+2024-09-05 21:46:34,444 - Download.get_url - INFO - 开始下载小文件: 04.jpg
+2024-09-05 21:46:35,692 - Download.get_url - INFO - 小文件下载完成: 04.jpg
+2024-09-05 21:46:35,826 - Download.get_url - INFO - 开始下载小文件: 05.jpg
+2024-09-05 21:46:36,709 - Download.get_url - INFO - 小文件下载完成: 05.jpg
+2024-09-05 21:46:36,811 - Download.get_url - INFO - 开始下载小文件: 06.jpg
+2024-09-05 21:46:37,676 - Download.get_url - INFO - 小文件下载完成: 06.jpg
+2024-09-05 21:46:37,778 - Download.get_url - INFO - 开始下载大文件: 07.jpg
+2024-09-05 21:46:39,140 - Download.get_url - INFO - 大文件下载完成: 07.jpg
+2024-09-05 21:46:39,227 - Download.get_url - INFO - 开始下载大文件: 08.jpg
+2024-09-05 21:46:39,992 - Download.get_url - INFO - 大文件下载完成: 08.jpg
+2024-09-05 21:46:40,093 - Download.get_url - INFO - 开始下载小文件: 09.jpg
+2024-09-05 21:46:41,091 - Download.get_url - INFO - 小文件下载完成: 09.jpg
+2024-09-05 21:46:41,239 - Download.get_url - INFO - 开始下载大文件: 10.jpg
+2024-09-05 21:46:42,376 - Download.get_url - INFO - 大文件下载完成: 10.jpg
+2024-09-05 21:46:42,476 - Download.get_url - INFO - 开始下载小文件: 11.jpg
+2024-09-05 21:46:43,375 - Download.get_url - INFO - 小文件下载完成: 11.jpg
+2024-09-05 21:46:43,458 - Download.get_url - INFO - 开始下载小文件: 12.jpg
+2024-09-05 21:46:44,343 - Download.get_url - INFO - 小文件下载完成: 12.jpg
+2024-09-05 21:46:44,426 - Download.get_url - INFO - 开始下载小文件: 13.jpg
+2024-09-05 21:46:45,258 - Download.get_url - INFO - 小文件下载完成: 13.jpg
+2024-09-05 21:46:45,362 - Download.get_url - INFO - 开始下载小文件: 14.jpg
+2024-09-05 21:46:46,426 - Download.get_url - INFO - 小文件下载完成: 14.jpg
+2024-09-05 21:46:46,509 - Download.get_url - INFO - 开始下载小文件: 15.jpg
+2024-09-05 21:46:47,524 - Download.get_url - INFO - 小文件下载完成: 15.jpg
+2024-09-05 21:46:47,628 - Download.get_url - INFO - 开始下载小文件: 16.jpg
+2024-09-05 21:46:48,525 - Download.get_url - INFO - 小文件下载完成: 16.jpg
+2024-09-05 21:46:48,627 - Download.get_url - INFO - 开始下载大文件: 17.jpg
+2024-09-05 21:46:49,677 - Download.get_url - INFO - 大文件下载完成: 17.jpg
+2024-09-05 21:46:49,777 - Download.get_url - INFO - 开始下载小文件: 18.jpg
+2024-09-05 21:46:50,776 - Download.get_url - INFO - 小文件下载完成: 18.jpg
+2024-09-05 21:46:50,926 - Download.get_url - INFO - 开始下载大文件: 19.jpg
+2024-09-05 21:46:52,050 - Download.get_url - INFO - 大文件下载完成: 19.jpg
+2024-09-05 21:46:52,142 - Download.get_url - INFO - 开始下载小文件: 20.jpg
+2024-09-05 21:46:53,091 - Download.get_url - INFO - 小文件下载完成: 20.jpg
+2024-09-05 21:46:53,179 - Download.get_url - INFO - 开始下载大文件: 21.jpg
+2024-09-05 21:46:54,644 - Download.get_url - INFO - 大文件下载完成: 21.jpg
+2024-09-05 21:46:54,743 - Download.get_url - INFO - 开始下载大文件: 22.jpg
+2024-09-05 21:46:55,958 - Download.get_url - INFO - 大文件下载完成: 22.jpg
+2024-09-05 21:46:56,092 - Download.get_url - INFO - 开始下载大文件: 23.jpg
+2024-09-05 21:46:56,810 - Download.get_url - INFO - 大文件下载完成: 23.jpg
+2024-09-05 21:46:56,893 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 21:46:56,910 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 21:46:56,991 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 21:46:58,076 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 21:46:58,176 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 21:46:59,176 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 21:46:59,277 - Download.get_url - INFO - 开始下载大文件: 27.jpg
+2024-09-05 21:47:00,498 - Download.get_url - INFO - 大文件下载完成: 27.jpg
+2024-09-05 21:47:00,645 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 21:47:00,646 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 21:47:01,525 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 21:47:01,627 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 21:47:02,571 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 21:47:02,669 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 21:47:03,801 - Download.get_url - INFO - 大文件下载完成: 03.jpg
+2024-09-05 21:47:03,886 - Download.get_url - INFO - 开始下载大文件: 04.jpg
+2024-09-05 21:47:05,102 - Download.get_url - INFO - 大文件下载完成: 04.jpg
+2024-09-05 21:47:05,188 - Download.get_url - INFO - 开始下载大文件: 05.jpg
+2024-09-05 21:47:06,517 - Download.get_url - INFO - 大文件下载完成: 05.jpg
+2024-09-05 21:47:06,658 - Download.get_url - INFO - 开始下载大文件: 06.jpg
+2024-09-05 21:47:10,373 - root - INFO - 测试图片下载
+2024-09-05 21:47:10,375 - root - INFO - 测试视频下载
+2024-09-05 21:54:23,123 - root - INFO - 测试图片下载
+2024-09-05 21:54:23,123 - root - INFO - 测试视频下载
+2024-09-05 21:54:23,123 - Download.get_url - INFO - 开始下载小文件: test_file
+2024-09-05 21:54:23,123 - Download.get_url - INFO - 开始下载小文件: test_file
+2024-09-05 21:54:23,123 - Download.get_url - INFO - 小文件下载完成: test_file
+2024-09-05 21:54:23,123 - Download.get_url - INFO - 开始下载大文件: test_file
+2024-09-05 21:54:23,123 - Download.get_url - INFO - 大文件下载完成: test_file
+2024-09-05 21:54:23,123 - Download.get_url - INFO - 开始断点续传下载: test_file
+2024-09-05 21:54:23,134 - Download.get_url - INFO - 断点续传下载完成: test_file
+2024-09-05 21:55:08,576 - Download.get_url - INFO - 开始下载小文件: test_file
+2024-09-05 21:55:08,578 - Download.get_url - INFO - 开始下载小文件: test_file
+2024-09-05 21:55:08,578 - Download.get_url - INFO - 小文件下载完成: test_file
+2024-09-05 21:55:08,579 - Download.get_url - INFO - 开始下载大文件: test_file
+2024-09-05 21:55:08,579 - Download.get_url - INFO - 大文件下载完成: test_file
+2024-09-05 21:55:08,581 - Download.get_url - INFO - 开始断点续传下载: test_file
+2024-09-05 21:55:08,582 - Download.get_url - INFO - 断点续传下载完成: test_file
+2024-09-05 21:55:08,582 - root - INFO - 测试图片下载
+2024-09-05 21:55:08,583 - root - INFO - 测试视频下载
+2024-09-05 21:55:08,584 - Download.get_url - INFO - 开始下载小文件: test_file
+2024-09-05 21:55:08,591 - Download.get_url - INFO - 开始下载小文件: test_file
+2024-09-05 21:55:08,591 - Download.get_url - INFO - 小文件下载完成: test_file
+2024-09-05 21:55:08,591 - Download.get_url - INFO - 开始下载大文件: test_file
+2024-09-05 21:55:08,592 - Download.get_url - INFO - 大文件下载完成: test_file
+2024-09-05 21:55:08,593 - Download.get_url - INFO - 开始断点续传下载: test_file
+2024-09-05 21:55:08,593 - Download.get_url - INFO - 断点续传下载完成: test_file
+2024-09-05 22:02:06,794 - root - INFO - 开始下载视频文件
+2024-09-05 22:02:07,437 - root - INFO - 视频文件下载完成
+2024-09-05 22:02:07,437 - root - INFO - 开始下载图片文件
+2024-09-05 22:02:10,474 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:02:10,476 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 22:02:11,603 - Download.get_url - INFO - 开始断点续传下载: 06.jpg
+2024-09-05 22:02:11,609 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-05 22:02:11,765 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /manhua/2/06.jpg HTTP/11" 206 145867
+2024-09-05 22:02:12,744 - Download.get_url - INFO - 断点续传下载完成: 06.jpg
+2024-09-05 22:02:12,861 - Download.get_url - INFO - 开始下载大文件: 07.jpg
+2024-09-05 22:02:14,014 - Download.get_url - INFO - 大文件下载完成: 07.jpg
+2024-09-05 22:02:14,112 - Download.get_url - INFO - 开始下载小文件: 08.jpg
+2024-09-05 22:02:15,026 - Download.get_url - INFO - 小文件下载完成: 08.jpg
+2024-09-05 22:02:15,112 - Download.get_url - INFO - 开始下载小文件: 09.jpg
+2024-09-05 22:02:16,010 - Download.get_url - INFO - 小文件下载完成: 09.jpg
+2024-09-05 22:02:16,092 - Download.get_url - INFO - 开始下载大文件: 10.jpg
+2024-09-05 22:02:17,098 - Download.get_url - INFO - 大文件下载完成: 10.jpg
+2024-09-05 22:02:17,276 - Download.get_url - INFO - 开始下载大文件: 11.jpg
+2024-09-05 22:02:18,596 - Download.get_url - INFO - 大文件下载完成: 11.jpg
+2024-09-05 22:02:18,677 - Download.get_url - INFO - 开始下载大文件: 12.jpg
+2024-09-05 22:02:19,711 - Download.get_url - INFO - 大文件下载完成: 12.jpg
+2024-09-05 22:02:19,812 - Download.get_url - INFO - 开始下载大文件: 13.jpg
+2024-09-05 22:02:21,098 - Download.get_url - INFO - 大文件下载完成: 13.jpg
+2024-09-05 22:02:21,211 - Download.get_url - INFO - 开始下载小文件: 14.jpg
+2024-09-05 22:02:22,175 - Download.get_url - INFO - 小文件下载完成: 14.jpg
+2024-09-05 22:02:22,314 - Download.get_url - INFO - 开始下载大文件: 15.jpg
+2024-09-05 22:02:23,259 - Download.get_url - INFO - 大文件下载完成: 15.jpg
+2024-09-05 22:02:23,345 - Download.get_url - INFO - 开始下载大文件: 16.jpg
+2024-09-05 22:02:24,692 - Download.get_url - INFO - 大文件下载完成: 16.jpg
+2024-09-05 22:02:24,794 - Download.get_url - INFO - 开始下载大文件: 17.jpg
+2024-09-05 22:02:25,881 - Download.get_url - INFO - 大文件下载完成: 17.jpg
+2024-09-05 22:02:25,978 - Download.get_url - INFO - 开始下载大文件: 18.jpg
+2024-09-05 22:02:27,175 - Download.get_url - INFO - 大文件下载完成: 18.jpg
+2024-09-05 22:02:27,328 - Download.get_url - INFO - 开始下载大文件: 19.jpg
+2024-09-05 22:02:28,279 - Download.get_url - INFO - 大文件下载完成: 19.jpg
+2024-09-05 22:02:28,381 - Download.get_url - INFO - 开始下载大文件: 20.jpg
+2024-09-05 22:02:29,510 - Download.get_url - INFO - 大文件下载完成: 20.jpg
+2024-09-05 22:02:29,612 - Download.get_url - INFO - 开始下载小文件: 21.jpg
+2024-09-05 22:02:30,410 - Download.get_url - INFO - 小文件下载完成: 21.jpg
+2024-09-05 22:02:30,493 - Download.get_url - INFO - 开始下载小文件: 22.jpg
+2024-09-05 22:02:30,493 - Download.get_url - INFO - 小文件下载完成: 22.jpg
+2024-09-05 22:02:30,577 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 22:02:30,577 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 22:02:30,678 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:02:30,679 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 22:02:30,759 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 22:02:30,759 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 22:02:30,859 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 22:02:30,859 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 22:02:30,944 - Download.get_url - INFO - 开始下载小文件: 27.jpg
+2024-09-05 22:02:30,944 - Download.get_url - INFO - 小文件下载完成: 27.jpg
+2024-09-05 22:02:31,054 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 22:02:31,055 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:02:31,795 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 22:02:31,927 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 22:02:32,435 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 22:02:32,526 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:02:33,565 - Download.get_url - INFO - 大文件下载完成: 03.jpg
+2024-09-05 22:02:33,661 - Download.get_url - INFO - 开始下载小文件: 04.jpg
+2024-09-05 22:02:34,636 - Download.get_url - INFO - 小文件下载完成: 04.jpg
+2024-09-05 22:02:34,736 - Download.get_url - INFO - 开始下载小文件: 05.jpg
+2024-09-05 22:02:35,677 - Download.get_url - INFO - 小文件下载完成: 05.jpg
+2024-09-05 22:02:35,775 - Download.get_url - INFO - 开始下载小文件: 06.jpg
+2024-09-05 22:02:36,644 - Download.get_url - INFO - 小文件下载完成: 06.jpg
+2024-09-05 22:02:36,787 - Download.get_url - INFO - 开始下载小文件: 07.jpg
+2024-09-05 22:02:37,726 - Download.get_url - INFO - 小文件下载完成: 07.jpg
+2024-09-05 22:02:37,829 - Download.get_url - INFO - 开始下载小文件: 08.jpg
+2024-09-05 22:02:38,693 - Download.get_url - INFO - 小文件下载完成: 08.jpg
+2024-09-05 22:02:38,779 - Download.get_url - INFO - 开始下载小文件: 09.jpg
+2024-09-05 22:02:39,727 - Download.get_url - INFO - 小文件下载完成: 09.jpg
+2024-09-05 22:02:39,828 - Download.get_url - INFO - 开始下载小文件: 10.jpg
+2024-09-05 22:02:39,828 - Download.get_url - INFO - 小文件下载完成: 10.jpg
+2024-09-05 22:02:39,942 - Download.get_url - INFO - 开始下载小文件: 11.jpg
+2024-09-05 22:02:40,675 - Download.get_url - INFO - 小文件下载完成: 11.jpg
+2024-09-05 22:02:40,761 - Download.get_url - INFO - 开始下载小文件: 12.jpg
+2024-09-05 22:02:41,625 - Download.get_url - INFO - 小文件下载完成: 12.jpg
+2024-09-05 22:02:41,792 - Download.get_url - INFO - 开始下载小文件: 13.jpg
+2024-09-05 22:02:42,726 - Download.get_url - INFO - 小文件下载完成: 13.jpg
+2024-09-05 22:02:42,828 - Download.get_url - INFO - 开始下载大文件: 14.jpg
+2024-09-05 22:02:43,834 - Download.get_url - INFO - 大文件下载完成: 14.jpg
+2024-09-05 22:02:43,926 - Download.get_url - INFO - 开始下载大文件: 15.jpg
+2024-09-05 22:02:45,046 - Download.get_url - INFO - 大文件下载完成: 15.jpg
+2024-09-05 22:02:45,160 - Download.get_url - INFO - 开始下载小文件: 16.jpg
+2024-09-05 22:02:46,130 - Download.get_url - INFO - 小文件下载完成: 16.jpg
+2024-09-05 22:02:46,221 - Download.get_url - INFO - 开始下载大文件: 17.jpg
+2024-09-05 22:02:47,522 - Download.get_url - INFO - 大文件下载完成: 17.jpg
+2024-09-05 22:02:47,661 - Download.get_url - INFO - 开始下载小文件: 18.jpg
+2024-09-05 22:02:48,308 - Download.get_url - INFO - 小文件下载完成: 18.jpg
+2024-09-05 22:02:48,393 - Download.get_url - INFO - 开始下载小文件: 19.jpg
+2024-09-05 22:02:49,651 - Download.get_url - INFO - 小文件下载完成: 19.jpg
+2024-09-05 22:02:49,744 - Download.get_url - INFO - 开始下载小文件: 20.jpg
+2024-09-05 22:02:50,466 - Download.get_url - INFO - 小文件下载完成: 20.jpg
+2024-09-05 22:02:50,559 - Download.get_url - INFO - 开始下载小文件: 21.jpg
+2024-09-05 22:02:51,476 - Download.get_url - INFO - 小文件下载完成: 21.jpg
+2024-09-05 22:02:51,560 - Download.get_url - INFO - 开始下载小文件: 22.jpg
+2024-09-05 22:02:52,067 - Download.get_url - INFO - 小文件下载完成: 22.jpg
+2024-09-05 22:02:52,144 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 22:02:52,144 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 22:02:52,244 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:02:53,389 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 22:02:53,535 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 22:02:54,115 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 22:02:54,210 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 22:02:55,218 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 22:02:55,325 - Download.get_url - INFO - 开始下载小文件: 27.jpg
+2024-09-05 22:02:56,067 - Download.get_url - INFO - 小文件下载完成: 27.jpg
+2024-09-05 22:02:56,185 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 22:02:56,186 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\4
+2024-09-05 22:02:57,898 - Download.get_url - INFO - 大文件下载完成: 01.jpg
+2024-09-05 22:02:58,011 - Download.get_url - INFO - 开始下载大文件: 02.jpg
+2024-09-05 22:02:59,792 - Download.get_url - INFO - 大文件下载完成: 02.jpg
+2024-09-05 22:02:59,951 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:03:01,247 - Download.get_url - INFO - 大文件下载完成: 03.jpg
+2024-09-05 22:03:01,388 - Download.get_url - INFO - 开始下载大文件: 04.jpg
+2024-09-05 22:03:03,147 - Download.get_url - INFO - 大文件下载完成: 04.jpg
+2024-09-05 22:03:03,244 - Download.get_url - INFO - 开始下载大文件: 05.jpg
+2024-09-05 22:03:05,012 - Download.get_url - INFO - 大文件下载完成: 05.jpg
+2024-09-05 22:03:05,160 - Download.get_url - INFO - 开始下载大文件: 06.jpg
+2024-09-05 22:03:06,746 - Download.get_url - INFO - 大文件下载完成: 06.jpg
+2024-09-05 22:03:06,911 - Download.get_url - INFO - 开始下载大文件: 07.jpg
+2024-09-05 22:03:08,362 - Download.get_url - INFO - 大文件下载完成: 07.jpg
+2024-09-05 22:03:08,448 - Download.get_url - INFO - 开始下载大文件: 08.jpg
+2024-09-05 22:03:10,629 - Download.get_url - INFO - 大文件下载完成: 08.jpg
+2024-09-05 22:03:10,764 - Download.get_url - INFO - 开始下载大文件: 09.jpg
+2024-09-05 22:03:11,726 - Download.get_url - INFO - 大文件下载完成: 09.jpg
+2024-09-05 22:03:11,810 - Download.get_url - INFO - 开始下载大文件: 10.jpg
+2024-09-05 22:03:13,947 - Download.get_url - INFO - 大文件下载完成: 10.jpg
+2024-09-05 22:03:14,026 - Download.get_url - INFO - 开始下载大文件: 11.jpg
+2024-09-05 22:03:15,014 - Download.get_url - INFO - 大文件下载完成: 11.jpg
+2024-09-05 22:03:15,112 - Download.get_url - INFO - 开始下载大文件: 12.jpg
+2024-09-05 22:03:17,077 - Download.get_url - INFO - 大文件下载完成: 12.jpg
+2024-09-05 22:03:17,226 - Download.get_url - INFO - 开始下载大文件: 13.jpg
+2024-09-05 22:03:18,513 - Download.get_url - INFO - 大文件下载完成: 13.jpg
+2024-09-05 22:03:18,610 - Download.get_url - INFO - 开始下载大文件: 14.jpg
+2024-09-05 22:03:20,132 - Download.get_url - INFO - 大文件下载完成: 14.jpg
+2024-09-05 22:03:20,211 - Download.get_url - INFO - 开始下载大文件: 15.jpg
+2024-09-05 22:03:22,132 - Download.get_url - INFO - 大文件下载完成: 15.jpg
+2024-09-05 22:03:22,266 - Download.get_url - INFO - 开始下载大文件: 16.jpg
+2024-09-05 22:03:22,926 - Download.get_url - INFO - 大文件下载完成: 16.jpg
+2024-09-05 22:03:23,028 - Download.get_url - INFO - 开始下载大文件: 17.jpg
+2024-09-05 22:03:24,631 - Download.get_url - INFO - 大文件下载完成: 17.jpg
+2024-09-05 22:03:24,733 - Download.get_url - INFO - 开始下载大文件: 18.jpg
+2024-09-05 22:03:26,348 - Download.get_url - INFO - 大文件下载完成: 18.jpg
+2024-09-05 22:03:26,518 - Download.get_url - INFO - 开始下载大文件: 19.jpg
+2024-09-05 22:03:27,664 - Download.get_url - INFO - 大文件下载完成: 19.jpg
+2024-09-05 22:03:27,759 - Download.get_url - INFO - 开始下载大文件: 20.jpg
+2024-09-05 22:03:29,432 - Download.get_url - INFO - 大文件下载完成: 20.jpg
+2024-09-05 22:03:29,544 - Download.get_url - INFO - 开始下载大文件: 21.jpg
+2024-09-05 22:03:30,911 - Download.get_url - INFO - 大文件下载完成: 21.jpg
+2024-09-05 22:03:31,011 - Download.get_url - INFO - 开始下载大文件: 22.jpg
+2024-09-05 22:03:32,183 - Download.get_url - INFO - 大文件下载完成: 22.jpg
+2024-09-05 22:03:32,337 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 22:03:32,338 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 22:03:32,429 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:03:32,430 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 22:03:32,511 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 22:03:32,511 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 22:03:32,622 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 22:03:32,624 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 22:03:32,715 - Download.get_url - INFO - 开始下载小文件: 27.jpg
+2024-09-05 22:03:32,717 - Download.get_url - INFO - 小文件下载完成: 27.jpg
+2024-09-05 22:03:32,717 - root - INFO - 图片文件下载完成
+2024-09-05 22:04:12,094 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:04:12,110 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 22:04:15,461 - Download.get_url - INFO - 开始下载小文件: 22.jpg
+2024-09-05 22:04:15,461 - Download.get_url - INFO - 小文件下载完成: 22.jpg
+2024-09-05 22:04:15,561 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 22:04:15,561 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 22:04:15,644 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:04:15,644 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 22:04:15,744 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 22:04:15,744 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 22:04:15,844 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 22:04:15,844 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 22:04:15,926 - Download.get_url - INFO - 开始下载小文件: 27.jpg
+2024-09-05 22:04:15,926 - Download.get_url - INFO - 小文件下载完成: 27.jpg
+2024-09-05 22:04:16,978 - Download.get_url - INFO - 开始下载小文件: 10.jpg
+2024-09-05 22:04:16,978 - Download.get_url - INFO - 小文件下载完成: 10.jpg
+2024-09-05 22:04:18,608 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 22:04:18,608 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 22:04:22,146 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 22:04:22,146 - Download.get_url - INFO - 小文件下载完成: 23.jpg
+2024-09-05 22:04:22,228 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:04:22,228 - Download.get_url - INFO - 小文件下载完成: 24.jpg
+2024-09-05 22:04:22,326 - Download.get_url - INFO - 开始下载小文件: 25.jpg
+2024-09-05 22:04:22,326 - Download.get_url - INFO - 小文件下载完成: 25.jpg
+2024-09-05 22:04:22,411 - Download.get_url - INFO - 开始下载小文件: 26.jpg
+2024-09-05 22:04:22,411 - Download.get_url - INFO - 小文件下载完成: 26.jpg
+2024-09-05 22:04:22,512 - Download.get_url - INFO - 开始下载小文件: 27.jpg
+2024-09-05 22:04:22,512 - Download.get_url - INFO - 小文件下载完成: 27.jpg
+2024-09-05 22:54:42,731 - root - INFO - 开始下载视频文件
+2024-09-05 22:54:42,731 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 22:54:43,448 - Download.get_url - INFO - 列表下载完成: 1
+2024-09-05 22:54:43,448 - root - INFO - 视频文件下载完成
+2024-09-05 22:54:43,448 - root - INFO - 开始下载图片文件
+2024-09-05 22:54:43,448 - Download.get_url - INFO - 开始下载列表: 2
+2024-09-05 22:54:43,448 - Download.get_url - INFO - 开始下载列表: 3
+2024-09-05 22:54:51,092 - Download.get_url - INFO - 开始下载小文件: 24.jpg
+2024-09-05 22:54:51,092 - Download.get_url - ERROR - 下载失败: 3
+2024-09-05 22:54:51,092 - Download.get_url - ERROR - [WinError 183] 当文件已存在时，无法创建该文件。: 'C:\\Users\\Hurca\\Downloads\\img\\1'
+2024-09-05 22:54:51,092 - Download.get_url - INFO - 开始下载列表: 4
+2024-09-05 22:54:53,896 - Download.get_url - INFO - 开始下载小文件: 22.jpg
+2024-09-05 22:54:53,896 - Download.get_url - ERROR - 下载失败: 4
+2024-09-05 22:54:53,896 - Download.get_url - ERROR - [WinError 183] 当文件已存在时，无法创建该文件。: 'C:\\Users\\Hurca\\Downloads\\img\\2'
+2024-09-05 22:54:53,896 - Download.get_url - INFO - 开始下载列表: 5
+2024-09-05 22:54:55,296 - Download.get_url - INFO - 开始下载小文件: 10.jpg
+2024-09-05 22:54:55,296 - Download.get_url - ERROR - 下载失败: 5
+2024-09-05 22:54:55,296 - Download.get_url - ERROR - [WinError 183] 当文件已存在时，无法创建该文件。: 'C:\\Users\\Hurca\\Downloads\\img\\3'
+2024-09-05 22:54:55,296 - Download.get_url - INFO - 开始下载列表: 6
+2024-09-05 22:54:58,415 - Download.get_url - INFO - 开始下载小文件: 23.jpg
+2024-09-05 22:54:58,415 - Download.get_url - ERROR - 下载失败: 6
+2024-09-05 22:54:58,415 - Download.get_url - ERROR - [WinError 183] 当文件已存在时，无法创建该文件。: 'C:\\Users\\Hurca\\Downloads\\img\\4'
+2024-09-05 22:54:58,415 - Download.get_url - INFO - 列表下载完成: 6
+2024-09-05 22:54:58,415 - root - INFO - 图片文件下载完成
+2024-09-05 22:55:34,182 - root - INFO - 开始下载视频文件
+2024-09-05 22:55:34,182 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 22:55:34,395 - Download.get_url - INFO - 开始下载大文件: 01.mp4
+2024-09-05 22:55:34,395 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 22:55:34,498 - Download.get_url - ERROR - 下载失败: 1
+2024-09-05 22:55:34,499 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\mov\\video\\01.mp4'
+2024-09-05 22:55:34,499 - root - INFO - 视频文件下载完成
+2024-09-05 22:55:34,499 - root - INFO - 开始下载图片文件
+2024-09-05 22:55:34,500 - Download.get_url - INFO - 开始下载列表: 2
+2024-09-05 22:55:34,500 - Download.get_url - INFO - 开始下载列表: 3
+2024-09-05 22:55:34,595 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 22:55:34,596 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\1
+2024-09-05 22:55:34,695 - Download.get_url - ERROR - 下载失败: 3
+2024-09-05 22:55:34,695 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\1\\01.jpg'
+2024-09-05 22:55:34,695 - Download.get_url - INFO - 开始下载列表: 4
+2024-09-05 22:55:34,811 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 22:55:34,814 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:55:34,902 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 22:55:34,902 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\01.jpg'
+2024-09-05 22:55:34,904 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 22:55:35,013 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 22:55:35,013 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:55:35,120 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 22:55:35,120 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\02.jpg'
+2024-09-05 22:55:35,121 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 22:55:35,213 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:55:35,213 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:55:35,314 - Download.get_url - ERROR - 下载失败: 4
+2024-09-05 22:55:35,314 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\03.jpg'
+2024-09-05 22:55:35,315 - Download.get_url - INFO - 开始下载列表: 5
+2024-09-05 22:55:35,480 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 22:55:35,480 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:55:35,563 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 22:55:35,563 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\01.jpg'
+2024-09-05 22:55:35,563 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 22:55:35,733 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 22:55:35,734 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:55:35,831 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 22:55:35,832 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\02.jpg'
+2024-09-05 22:55:35,832 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 22:55:36,018 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:55:36,018 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:55:36,197 - Download.get_url - ERROR - 下载失败: 5
+2024-09-05 22:55:36,197 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\03.jpg'
+2024-09-05 22:55:36,197 - Download.get_url - INFO - 开始下载列表: 6
+2024-09-05 22:55:36,295 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 22:55:36,295 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\4
+2024-09-05 22:55:36,395 - Download.get_url - ERROR - 下载失败: 6
+2024-09-05 22:55:36,395 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\4\\01.jpg'
+2024-09-05 22:55:36,395 - Download.get_url - INFO - 列表下载完成: 6
+2024-09-05 22:55:36,395 - root - INFO - 图片文件下载完成
+2024-09-05 22:56:02,462 - root - INFO - 开始下载视频文件
+2024-09-05 22:56:02,462 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 22:56:02,647 - Download.get_url - INFO - 开始下载大文件: 01.mp4
+2024-09-05 22:56:02,647 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 22:56:02,747 - Download.get_url - ERROR - 下载失败: 1
+2024-09-05 22:56:02,747 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\mov\\video\\01.mp4'
+2024-09-05 22:56:02,747 - root - INFO - 视频文件下载完成
+2024-09-05 22:56:02,747 - root - INFO - 开始下载图片文件
+2024-09-05 22:56:02,747 - Download.get_url - INFO - 开始下载列表: 2
+2024-09-05 22:56:02,747 - Download.get_url - INFO - 开始下载列表: 3
+2024-09-05 22:56:02,848 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 22:56:02,848 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\1
+2024-09-05 22:56:02,952 - Download.get_url - ERROR - 下载失败: 3
+2024-09-05 22:56:02,952 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\1\\01.jpg'
+2024-09-05 22:56:02,952 - Download.get_url - INFO - 开始下载列表: 4
+2024-09-05 22:56:03,049 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 22:56:03,051 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:56:03,147 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 22:56:03,147 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\01.jpg'
+2024-09-05 22:56:03,147 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 22:56:03,230 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 22:56:03,230 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:56:03,331 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 22:56:03,333 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\02.jpg'
+2024-09-05 22:56:03,333 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 22:56:03,428 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:56:03,429 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:56:03,580 - Download.get_url - ERROR - 下载失败: 4
+2024-09-05 22:56:03,580 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\03.jpg'
+2024-09-05 22:56:03,580 - Download.get_url - INFO - 开始下载列表: 5
+2024-09-05 22:56:03,699 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 22:56:03,700 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:56:03,797 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 22:56:03,797 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\01.jpg'
+2024-09-05 22:56:03,797 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 22:56:03,948 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 22:56:03,948 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:56:04,047 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 22:56:04,047 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\02.jpg'
+2024-09-05 22:56:04,047 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 22:56:04,212 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:56:04,212 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:56:04,373 - Download.get_url - ERROR - 下载失败: 5
+2024-09-05 22:56:04,374 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\03.jpg'
+2024-09-05 22:56:04,375 - Download.get_url - INFO - 开始下载列表: 6
+2024-09-05 22:56:04,463 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 22:56:04,463 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\4
+2024-09-05 22:56:04,562 - Download.get_url - ERROR - 下载失败: 6
+2024-09-05 22:56:04,562 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\4\\01.jpg'
+2024-09-05 22:56:04,562 - Download.get_url - INFO - 列表下载完成: 6
+2024-09-05 22:56:04,562 - root - INFO - 图片文件下载完成
+2024-09-05 22:56:36,149 - root - INFO - 开始下载视频文件
+2024-09-05 22:56:36,149 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 22:56:36,354 - Download.get_url - INFO - 开始下载大文件: 01.mp4
+2024-09-05 22:56:36,354 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 22:56:36,447 - Download.get_url - ERROR - 下载失败: 1
+2024-09-05 22:56:36,447 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\mov\\video\\01.mp4'
+2024-09-05 22:56:36,447 - root - INFO - 视频文件下载完成
+2024-09-05 22:56:36,447 - root - INFO - 开始下载图片文件
+2024-09-05 22:56:36,447 - Download.get_url - INFO - 开始下载列表: 2
+2024-09-05 22:56:36,447 - Download.get_url - INFO - 开始下载列表: 3
+2024-09-05 22:56:36,547 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 22:56:36,547 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\1
+2024-09-05 22:56:36,649 - Download.get_url - ERROR - 下载失败: 3
+2024-09-05 22:56:36,649 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\1\\01.jpg'
+2024-09-05 22:56:36,649 - Download.get_url - INFO - 开始下载列表: 4
+2024-09-05 22:56:36,747 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 22:56:36,747 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:56:36,847 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 22:56:36,847 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\01.jpg'
+2024-09-05 22:56:36,847 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 22:56:36,947 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 22:56:36,947 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:56:37,047 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 22:56:37,047 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\02.jpg'
+2024-09-05 22:56:37,047 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 22:56:37,129 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:56:37,144 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 22:56:37,295 - Download.get_url - ERROR - 下载失败: 4
+2024-09-05 22:56:37,295 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\03.jpg'
+2024-09-05 22:56:37,296 - Download.get_url - INFO - 开始下载列表: 5
+2024-09-05 22:56:37,396 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 22:56:37,396 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:56:37,549 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 22:56:37,549 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\01.jpg'
+2024-09-05 22:56:37,550 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 22:56:37,706 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 22:56:37,709 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:56:37,896 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 22:56:37,896 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\02.jpg'
+2024-09-05 22:56:37,896 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 22:56:38,024 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 22:56:38,024 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 22:56:38,164 - Download.get_url - ERROR - 下载失败: 5
+2024-09-05 22:56:38,164 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\03.jpg'
+2024-09-05 22:56:38,164 - Download.get_url - INFO - 开始下载列表: 6
+2024-09-05 22:56:38,263 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 22:56:38,263 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\4
+2024-09-05 22:56:38,418 - Download.get_url - ERROR - 下载失败: 6
+2024-09-05 22:56:38,419 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\4\\01.jpg'
+2024-09-05 23:05:08,897 - root - INFO - 开始下载视频文件
+2024-09-05 23:05:08,897 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:05:09,083 - Download.get_url - INFO - 开始下载大文件: 01.mp4
+2024-09-05 23:05:09,083 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 23:05:09,181 - Download.get_url - ERROR - 下载失败: 1
+2024-09-05 23:05:09,181 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\mov\\video\\01.mp4'
+2024-09-05 23:05:09,181 - root - INFO - 视频文件下载完成
+2024-09-05 23:05:09,181 - root - INFO - 开始下载图片文件
+2024-09-05 23:05:09,181 - Download.get_url - INFO - 开始下载列表: 2
+2024-09-05 23:05:09,181 - Download.get_url - INFO - 开始下载列表: 3
+2024-09-05 23:05:09,263 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 23:05:09,263 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\1
+2024-09-05 23:05:09,348 - Download.get_url - ERROR - 下载失败: 3
+2024-09-05 23:05:09,348 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\1\\01.jpg'
+2024-09-05 23:05:09,348 - Download.get_url - INFO - 开始下载列表: 4
+2024-09-05 23:05:09,464 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 23:05:09,464 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 23:05:09,563 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 23:05:09,563 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\01.jpg'
+2024-09-05 23:05:09,563 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 23:05:09,648 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 23:05:09,648 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 23:05:09,747 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 23:05:09,748 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\02.jpg'
+2024-09-05 23:05:09,748 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 23:05:09,852 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 23:05:09,853 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\2
+2024-09-05 23:05:09,948 - Download.get_url - ERROR - 下载失败: 4
+2024-09-05 23:05:09,948 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\2\\03.jpg'
+2024-09-05 23:05:09,948 - Download.get_url - INFO - 开始下载列表: 5
+2024-09-05 23:05:10,103 - Download.get_url - INFO - 开始下载小文件: 01.jpg
+2024-09-05 23:05:10,104 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 23:05:10,280 - Download.get_url - ERROR - 下载失败: 01.jpg
+2024-09-05 23:05:10,280 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\01.jpg'
+2024-09-05 23:05:10,280 - Download.get_url - INFO - 小文件下载完成: 01.jpg
+2024-09-05 23:05:10,446 - Download.get_url - INFO - 开始下载小文件: 02.jpg
+2024-09-05 23:05:10,447 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 23:05:10,606 - Download.get_url - ERROR - 下载失败: 02.jpg
+2024-09-05 23:05:10,607 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\02.jpg'
+2024-09-05 23:05:10,607 - Download.get_url - INFO - 小文件下载完成: 02.jpg
+2024-09-05 23:05:10,696 - Download.get_url - INFO - 开始下载大文件: 03.jpg
+2024-09-05 23:05:10,696 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\3
+2024-09-05 23:05:10,859 - Download.get_url - ERROR - 下载失败: 5
+2024-09-05 23:05:10,860 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\3\\03.jpg'
+2024-09-05 23:05:10,861 - Download.get_url - INFO - 开始下载列表: 6
+2024-09-05 23:05:11,030 - Download.get_url - INFO - 开始下载大文件: 01.jpg
+2024-09-05 23:05:11,030 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\img\4
+2024-09-05 23:05:11,130 - Download.get_url - ERROR - 下载失败: 6
+2024-09-05 23:05:11,130 - Download.get_url - ERROR - [Errno 2] No such file or directory: 'C:\\Users\\Hurca\\Downloads\\img\\4\\01.jpg'
+2024-09-05 23:05:20,895 - Download.get_url - INFO - 列表下载完成: 6
+2024-09-05 23:05:20,895 - root - INFO - 图片文件下载完成
+2024-09-05 23:05:32,032 - root - INFO - 开始下载视频文件
+2024-09-05 23:05:32,032 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:05:32,209 - Download.get_url - INFO - 开始下载大文件: 01.mp4
+2024-09-05 23:05:32,209 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 23:08:24,721 - root - INFO - 开始下载视频文件
+2024-09-05 23:08:24,722 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:09:21,883 - root - INFO - 开始下载视频文件
+2024-09-05 23:09:21,883 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:09:53,147 - root - INFO - 开始下载视频文件
+2024-09-05 23:09:53,148 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:09:56,331 - Download.get_url - INFO - 开始下载大文件: 01.mp4
+2024-09-05 23:09:56,331 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 23:10:06,725 - root - INFO - 开始下载视频文件
+2024-09-05 23:10:06,726 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:10:17,106 - Download.get_url - INFO - 开始断点续传下载: 01.mp4
+2024-09-05 23:10:17,111 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-05 23:10:17,250 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /video/01.mp4 HTTP/11" 206 14283569
+2024-09-05 23:11:57,002 - Download.get_url - INFO - 断点续传下载完成: 01.mp4
+2024-09-05 23:11:57,142 - Download.get_url - INFO - 开始下载大文件: 02.mp4
+2024-09-05 23:11:57,143 - Download.get_url - INFO - 创建目录: C:\Users\Hurca\Downloads\mov\video
+2024-09-05 23:12:38,164 - root - INFO - 开始下载视频文件
+2024-09-05 23:12:38,165 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:12:38,427 - Download.get_url - INFO - 开始断点续传下载: 02.mp4
+2024-09-05 23:12:38,431 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-05 23:12:38,524 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /video/02.mp4 HTTP/11" 206 10962917
+2024-09-05 23:13:55,570 - Download.get_url - INFO - 断点续传下载完成: 02.mp4
+2024-09-05 23:13:55,715 - Download.get_url - INFO - 开始下载大文件: 03.mp4
+2024-09-05 23:14:50,713 - root - INFO - 开始下载视频文件
+2024-09-05 23:14:50,714 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-05 23:14:51,079 - Download.get_url - INFO - 开始断点续传下载: 03.mp4
+2024-09-05 23:14:51,083 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-05 23:14:51,176 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /video/03.mp4 HTTP/11" 206 22803438
+2024-09-06 00:18:40,952 - root - INFO - 开始下载视频文件
+2024-09-06 00:18:40,952 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-06 00:18:41,303 - Download.get_url - INFO - 开始断点续传下载: 03.mp4
+2024-09-06 00:18:41,303 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-06 00:18:41,404 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /video/03.mp4 HTTP/11" 206 22524910
+2024-09-06 00:51:49,155 - root - INFO - 开始下载视频文件
+2024-09-06 00:51:54,468 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-06 00:52:00,483 - Download.get_url - INFO - 列表下载完成: 1
+2024-09-06 00:52:00,624 - Download.get_url - INFO - 列表下载完成: 1
+2024-09-06 00:52:10,821 - Download.get_url - INFO - 开始断点续传下载: 03.mp4
+2024-09-06 00:52:10,825 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-06 00:52:10,973 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /video/03.mp4 HTTP/11" 206 8778734
+2024-09-06 00:53:12,026 - Download.get_url - INFO - 断点续传下载完成: 03.mp4
+2024-09-06 00:53:12,026 - Download.get_url - INFO - 列表下载完成: 1
+2024-09-06 00:53:12,181 - Download.get_url - INFO - 开始下载大文件: 04.mp4
+2024-09-06 00:54:05,555 - root - INFO - 开始下载视频文件
+2024-09-06 00:54:05,555 - Download.get_url - INFO - 开始下载列表: 1
+2024-09-06 00:54:05,741 - Download.get_url - INFO - 列表下载完成: 1
+2024-09-06 00:54:05,823 - Download.get_url - INFO - 列表下载完成: 1
+2024-09-06 00:54:05,923 - Download.get_url - INFO - 列表下载完成: 1
+2024-09-06 00:54:06,005 - Download.get_url - INFO - 开始断点续传下载: 04.mp4
+2024-09-06 00:54:06,005 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): syxiaojuzi.com:80
+2024-09-06 00:54:06,123 - urllib3.connectionpool - DEBUG - http://syxiaojuzi.com:80 "GET /video/04.mp4 HTTP/11" 206 22072891
