@@ -14,7 +14,7 @@ class TestDownload(unittest.TestCase):
         
         # 调用函数
         result = dow_file('http://example.com/test_file')
-        
+    
         # 断言结果
         self.assertEqual(result, test_data)
 
