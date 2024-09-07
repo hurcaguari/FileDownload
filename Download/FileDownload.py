@@ -10,7 +10,6 @@ from .Property import get_property
 
 URL = ''
 perty = {}
-inx = 0
 
 
 def dow_file(url:str, name:str, path='',) -> dict: # 主入口
