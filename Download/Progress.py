@@ -7,7 +7,7 @@ import sys
 def print_titen(perty):
     print('='*110)
     print('下载链接: {}'.format(perty['url']))
-    print('文件名称: {} 文件大小: {:.2f} KB 状态代码: {}'.format(perty['path']['file'],int(perty['size'])/1024,perty['status']))
+    print('文件名称: {} 文件大小: {:.2f} KB 状态代码: {}'.format(perty['path']['file']+perty['path']['extension'],int(perty['size'])/1024,perty['status']))
     print('保存位置: {}'.format(perty['path']['path']))
 
 def print_error(perty):

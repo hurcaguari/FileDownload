@@ -38,13 +38,13 @@ def get_property(url, name):
     url = remove_url_params(url)
     url = encode_url(url)
     out_dict = {
-        'name': name,
+        'name': splitext(basename(name))[0],
         'url': url,
         'status': None,
         'size': None,
         'path': {
             'path': get_out_path(url),
-            'file': sanitize_filename(name),
+            'file': splitext(basename(sanitize_filename(name)))[0],
             'extension': get_file_extension(url)
         }
     }
